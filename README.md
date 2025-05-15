@@ -46,4 +46,5 @@ Raw .edf EEG signals were cleaned and segmented using the main following steps:
 with $Sensitivity = \frac {TP} {TP+FN}$ & $Specificity = \frac {FP}{FP+TN}$
 
 The EpilepsyNet model achieves high accuracy in classifying epileptic and non-epileptic EEG recordings. The results demonstrate the effectiveness of the attention mechanism in capturing the correlations between EEG channels.
+
 Even with a Dataset of that rare quality and size for the specific task, the model seems to overfit, more recordings from diverse subjects would delay the model's end of learning.
