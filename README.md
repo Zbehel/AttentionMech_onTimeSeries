@@ -3,7 +3,7 @@
 ## 📝 Description
 
 This project is a binary classification among Epileptic patients and non epileptic. It is trained on EEG recordings from the TUH Dataset.
-The whole project can be find here : [Original Repository](https://github.com/sonydata/EEG_Epilepsy_Classification)
+This is my main contribution from a group project that can be find here : [Original Repository](https://github.com/sonydata/EEG_Epilepsy_Classification)
 
 And with a streamlit deployed on HF : [EEG Epilepsy App](https://huggingface.co/spaces/MorganBrizon/EEG_Epilepsy_App)
 
